@@ -1,0 +1,12 @@
+<?php
+//komentar ygy
+$Nama="Alif Ilham";
+$Alamat="Kp.Jaringao";
+$Ttl="Garut,10 Juni 2025";
+$No_telepon="085797882404";
+
+echo "Nama saya adalah = $Nama <br>";
+echo "Alamat saya adalah = $Alamat <br>";
+echo "Tempat tanggal lahir saya adalah = $Ttl <br>";
+echo "No telepon saya adalah = $No_telepon <br>";
+?>
